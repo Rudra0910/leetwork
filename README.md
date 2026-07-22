@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rudra0910/leetwork/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rudra0910/leetwork/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
+| [0704-binary-search](https://github.com/Rudra0910/leetwork/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudra0910/leetwork/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Rudra0910/leetwork/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
