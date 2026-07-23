@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rudra0910/leetwork/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/Rudra0910/leetwork/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra0910/leetwork/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudra0910/leetwork/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Rudra0910/leetwork/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rudra0910/leetwork/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
