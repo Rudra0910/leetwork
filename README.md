@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rudra0910/leetwork/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rudra0910/leetwork/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/Rudra0910/leetwork/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Rudra0910/leetwork/tree/master/0509-fibonacci-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudra0910/leetwork/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra0910/leetwork/tree/master/3536-maximum-product-of-two-digits) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rudra0910/leetwork/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rudra0910/leetwork/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra0910/leetwork/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0282-expression-add-operators](https://github.com/Rudra0910/leetwork/tree/master/0282-expression-add-operators) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rudra0910/leetwork/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rudra0910/leetwork/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0282-expression-add-operators](https://github.com/Rudra0910/leetwork/tree/master/0282-expression-add-operators) |
 ## Binary Search
 |  |
 | ------- |
