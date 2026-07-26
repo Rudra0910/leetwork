@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rudra0910/leetwork/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rudra0910/leetwork/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Rudra0910/leetwork/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rudra0910/leetwork/tree/master/0485-max-consecutive-ones) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rudra0910/leetwork/tree/master/0136-single-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudra0910/leetwork/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
