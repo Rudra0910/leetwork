@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rudra0910/leetwork/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rudra0910/leetwork/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rudra0910/leetwork/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rudra0910/leetwork/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Rudra0910/leetwork/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rudra0910/leetwork/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra0910/leetwork/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra0910/leetwork/tree/master/3536-maximum-product-of-two-digits) |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Rudra0910/leetwork/tree/master/0136-single-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudra0910/leetwork/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
