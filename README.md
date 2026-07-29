@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rudra0910/leetwork/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rudra0910/leetwork/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra0910/leetwork/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rudra0910/leetwork/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudra0910/leetwork/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rudra0910/leetwork/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rudra0910/leetwork/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rudra0910/leetwork/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
