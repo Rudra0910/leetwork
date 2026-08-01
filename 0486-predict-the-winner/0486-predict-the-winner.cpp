@@ -1,16 +1,23 @@
 class Solution {
 public:
     bool predictTheWinner(vector<int>& nums) {
-        int p1maxadv=curplaadv(nums,0,nums.size()-1);
-        if(p1maxadv>=0) return true;
-        else return false;
-    }
-    private:
-        int curplaadv(vector<int>& nums,int left, int right){
-            if(left==right) return nums[left];
-            
-            int chooseleft=nums[left]-curplaadv(nums,left+1,right);
-            int chooseright=nums[right]-curplaadv(nums,left,right-1);
-            return max(chooseleft,chooseright);
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(n));
+
+        for (int i = 0; i < n; i++)
+            dp[i][i] = nums[i];
+
+        for (int len = 2; len <= n; len++) {
+            for (int left = 0; left + len - 1 < n; left++) {
+                int right = left + len - 1;
+
+                dp[left][right] = max(
+                    nums[left] - dp[left + 1][right],
+                    nums[right] - dp[left][right - 1]
+                );
+            }
         }
+
+        return dp[0][n - 1] >= 0;
+    }
 };
