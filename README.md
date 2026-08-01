@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rudra0910/leetwork/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra0910/leetwork/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Rudra0910/leetwork/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rudra0910/leetwork/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rudra0910/leetwork/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Rudra0910/leetwork/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Rudra0910/leetwork/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rudra0910/leetwork/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rudra0910/leetwork/tree/master/0486-predict-the-winner) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rudra0910/leetwork/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
