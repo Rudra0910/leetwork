@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rudra0910/leetwork/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rudra0910/leetwork/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Rudra0910/leetwork/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra0910/leetwork/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Rudra0910/leetwork/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rudra0910/leetwork/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rudra0910/leetwork/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Rudra0910/leetwork/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/Rudra0910/leetwork/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/Rudra0910/leetwork/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rudra0910/leetwork/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra0910/leetwork/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rudra0910/leetwork/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rudra0910/leetwork/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra0910/leetwork/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Rudra0910/leetwork/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rudra0910/leetwork/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rudra0910/leetwork/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rudra0910/leetwork/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudra0910/leetwork/tree/master/2149-rearrange-array-elements-by-sign) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rudra0910/leetwork/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
